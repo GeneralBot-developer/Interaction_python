@@ -1,0 +1,2 @@
+# Interaction_python
+Pythonでinteractionの作成・送信を楽に行えるライブラリです。
